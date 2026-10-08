@@ -1,0 +1,6 @@
+{
+  "name": "Hospital Patient Data Management System",
+  "description": "A secure digital hospital patient data management system replacing manual Excel workflows with role-based access, patient admissions, clinical tracking, audit logs, and compliant Excel export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
